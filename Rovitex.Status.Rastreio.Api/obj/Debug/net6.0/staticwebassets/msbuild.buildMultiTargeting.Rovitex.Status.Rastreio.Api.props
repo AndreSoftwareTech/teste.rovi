@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rovitex.Status.Rastreio.Api.props" />
+</Project>

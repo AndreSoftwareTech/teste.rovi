@@ -1,0 +1,12 @@
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\bin\Debug\net6.0\Rovitex.Status.Rastreio.Domain.deps.json
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\bin\Debug\net6.0\Rovitex.Status.Rastreio.Domain.dll
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\bin\Debug\net6.0\Rovitex.Status.Rastreio.Domain.pdb
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\obj\Debug\net6.0\Rovitex.Status.Rastreio.Domain.csproj.AssemblyReference.cache
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\obj\Debug\net6.0\Rovitex.Status.Rastreio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\obj\Debug\net6.0\Rovitex.Status.Rastreio.Domain.AssemblyInfoInputs.cache
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\obj\Debug\net6.0\Rovitex.Status.Rastreio.Domain.AssemblyInfo.cs
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\obj\Debug\net6.0\Rovitex.Status.Rastreio.Domain.csproj.CoreCompileInputs.cache
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\obj\Debug\net6.0\Rovitex.Status.Rastreio.Domain.dll
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\obj\Debug\net6.0\refint\Rovitex.Status.Rastreio.Domain.dll
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\obj\Debug\net6.0\Rovitex.Status.Rastreio.Domain.pdb
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Domain\obj\Debug\net6.0\ref\Rovitex.Status.Rastreio.Domain.dll

@@ -1,0 +1,15 @@
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\bin\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.deps.json
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\bin\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.dll
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\bin\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.pdb
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\bin\Debug\net6.0\Rovitex.Status.Rastreio.Domain.dll
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\bin\Debug\net6.0\Rovitex.Status.Rastreio.Domain.pdb
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.csproj.AssemblyReference.cache
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.AssemblyInfoInputs.cache
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.AssemblyInfo.cs
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.csproj.CopyComplete
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.dll
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\refint\Rovitex.Status.Rastreio.Infrastructure.dll
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\Rovitex.Status.Rastreio.Infrastructure.pdb
+C:\repositorios\rovite.status.rastreio.logistica.api\Rovitex.Status.Rastreio.Infrastructure\obj\Debug\net6.0\ref\Rovitex.Status.Rastreio.Infrastructure.dll

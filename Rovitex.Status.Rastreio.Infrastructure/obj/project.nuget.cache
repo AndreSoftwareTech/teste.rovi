@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "HwQTSkO2mOclSGmHVlXzqoH6xoFfECehEnSs7ZtliBaNM/bfE9nwMULI4aAf4K7R0PHtfz8S5XAzqTpv6fiJCA==",
+  "success": true,
+  "projectFilePath": "C:\\repositorios\\rovite.status.rastreio.logistica.api\\Rovitex.Status.Rastreio.Infrastructure\\Rovitex.Status.Rastreio.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre.Pereira\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.rovitex.com.br/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6CCJfu7O7FcCuzrsJKcrfRc86GKDdL0rwFXObYLlZy2X3+jK9q7y7PeoPhoqmfstwTCFQY37KmzLcNhIo6LXQw==",
+  "success": true,
+  "projectFilePath": "C:\\repositorios\\rovite.status.rastreio.logistica.api\\Rovitex.Status.Rastreio.Domain\\Rovitex.Status.Rastreio.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.rovitex.com.br/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
