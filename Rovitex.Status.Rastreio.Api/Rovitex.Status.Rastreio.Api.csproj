@@ -22,8 +22,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Rovitex.Status.Rastreio.Domain\Rovitex.Status.Rastreio.Domain.csproj" />
-    <ProjectReference Include="..\Rovitex.Status.Rastreio.Infrastructure\Rovitex.Status.Rastreio.Infrastructure.csproj" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Rovitex.Status.Rastreio.Services\Rovitex.Status.Rastreio.Services.csproj" />
   </ItemGroup>
 
 </Project>

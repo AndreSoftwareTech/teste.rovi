@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rovitex.Status.Rastreio.Domain\Rovitex.Status.Rastreio.Domain.csproj" />
+    <ProjectReference Include="..\Rovitex.Status.Rastreio.Infrastructure\Rovitex.Status.Rastreio.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

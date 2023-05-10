@@ -5,9 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rovitex.Status.Rastreio.Api", "Rovitex.Status.Rastreio.Api\Rovitex.Status.Rastreio.Api.csproj", "{92102609-4A69-4D29-B39C-E9A6FD1F6AEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rovitex.Status.Rastreio.Domain", "Rovitex.Status.Rastreio.Domain\Rovitex.Status.Rastreio.Domain.csproj", "{25E2BF56-528A-4A93-B9D1-91C27BAE10AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rovitex.Status.Rastreio.Domain", "Rovitex.Status.Rastreio.Domain\Rovitex.Status.Rastreio.Domain.csproj", "{25E2BF56-528A-4A93-B9D1-91C27BAE10AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rovitex.Status.Rastreio.Infrastructure", "Rovitex.Status.Rastreio.Infrastructure\Rovitex.Status.Rastreio.Infrastructure.csproj", "{53ED611E-896F-43A8-8D6D-A78BEB293383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rovitex.Status.Rastreio.Infrastructure", "Rovitex.Status.Rastreio.Infrastructure\Rovitex.Status.Rastreio.Infrastructure.csproj", "{53ED611E-896F-43A8-8D6D-A78BEB293383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rovitex.Status.Rastreio.Services", "Rovitex.Status.Rastreio.Services\Rovitex.Status.Rastreio.Services.csproj", "{48A4A173-876A-4129-9AF9-195C509D2F14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{53ED611E-896F-43A8-8D6D-A78BEB293383}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53ED611E-896F-43A8-8D6D-A78BEB293383}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53ED611E-896F-43A8-8D6D-A78BEB293383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A4A173-876A-4129-9AF9-195C509D2F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A4A173-876A-4129-9AF9-195C509D2F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A4A173-876A-4129-9AF9-195C509D2F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A4A173-876A-4129-9AF9-195C509D2F14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

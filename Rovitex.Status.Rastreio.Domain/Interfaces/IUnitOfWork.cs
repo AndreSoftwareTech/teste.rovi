@@ -10,7 +10,9 @@ namespace Rovitex.Status.Rastreio.Domain.Interfaces
     public interface IUnitOfWork
     {
         IDbConnection Conexao { get; }
+
         void Commit();
+
         void BeginTransaction();
         void Rollback();
     }

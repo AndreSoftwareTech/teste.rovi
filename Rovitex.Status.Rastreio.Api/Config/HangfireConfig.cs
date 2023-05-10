@@ -4,9 +4,7 @@ using Microsoft.AspNetCore.Builder;
 
 using Hangfire;
 using Hangfire.MemoryStorage;
-using Rovitex.Status.Rastreio.Api.Services;
-
-
+using Rovitex.Status.Rastreio.Domain.Interfaces;
 
 namespace Rovitex.Status.Rastreio.Api.Config
 {
@@ -40,7 +38,7 @@ namespace Rovitex.Status.Rastreio.Api.Config
 
         public static IApplicationBuilder InitializeHangfireJobs(this IApplicationBuilder app)
         {
-            RecurringJob.AddOrUpdate<IStatusRota>("Serviço de Status Rota", service => service.Processar(), "0 12,17 * * *", TimeZoneInfo.Local);
+            RecurringJob.AddOrUpdate<IStatusService>("Serviço de Status Rota", service => service.Processar(), "0 * * * *", TimeZoneInfo.Local);
 
             return app;
         }

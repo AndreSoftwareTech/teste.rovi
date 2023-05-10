@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VoYpPTXo1WHHf877X0jmxcxdJbSep15tCe9o4pwjCA4wpIcwQNnOZvlw1j5HdVCtOSOaI/4xviMIsetfA/b/fg==",
-  "success": true,
-  "projectFilePath": "C:\\repositorios\\rovite.status.rastreio.logistica.api\\Rovitex.Status.Rastreio.Api\\Rovitex.Status.Rastreio.Api.csproj",
+  "dgSpecHash": "FvXgd1KZPcnNKhA4uNBY6CqO27YLbCNVdifCowuj9UprEJ6+/4ttxj9O609dFG9LTY2crGAjmvcbsW1RvBpSYw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Andre.Pereira\\Documents\\CSharp\\repositorios\\teste.rovi\\Rovitex.Status.Rastreio.Api\\Rovitex.Status.Rastreio.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andre.Pereira\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Andre.Pereira\\.nuget\\packages\\hangfire\\1.8.0\\hangfire.1.8.0.nupkg.sha512",
@@ -42,6 +42,15 @@
       "level": "Warning",
       "warningLevel": 1,
       "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.rovitex.com.br/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Não é possível encontrar as informações do projeto para 'C:\\Users\\Andre.Pereira\\Documents\\CSharp\\repositorios\\teste.rovi\\Rovitex.Status.Rastreio.Services\\Rovitex.Status.Rastreio.Services.csproj'. Se você está usando o Visual Studio, isso pode ocorrer porque o projeto não está carregado ou não faz parte da solução atual. Portanto, execute uma restauração usando a linha de comando. Do contrário, o arquivo de projeto pode ser inválido ou pode haver destinos obrigatórios para a restauração ausentes.",
+      "libraryId": "C:\\Users\\Andre.Pereira\\Documents\\CSharp\\repositorios\\teste.rovi\\Rovitex.Status.Rastreio.Services\\Rovitex.Status.Rastreio.Services.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
     }
   ]
 }
