@@ -38,7 +38,7 @@ namespace Rovitex.Status.Rastreio.Api.Config
 
         public static IApplicationBuilder InitializeHangfireJobs(this IApplicationBuilder app)
         {
-            RecurringJob.AddOrUpdate<IStatusService>("Serviço de Status Rota", service => service.Processar(), "0 * * * *", TimeZoneInfo.Local);
+            RecurringJob.AddOrUpdate<IStatusRastreioService>("Serviço de Status Rota", service => service.Processar(), "0 * * * *", TimeZoneInfo.Local);
 
             return app;
         }

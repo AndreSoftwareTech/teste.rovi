@@ -12,5 +12,7 @@ namespace Rovitex.Status.Rastreio.Domain.Entidades
         public string Descricao { get; set; }
         public string Data_Entrega { get; set; }
         public string Numreg_Movfat { get; set; }
+        public string Status { get; set; }
+
     }
 }

@@ -8,6 +8,7 @@ using System.Net.Http.Headers;
 using System.Net.Http.Json;
 using System.Text;
 
+
 namespace Rovitex.Status.Rastreio.Api.Services
 {
     public class LogisticaApiRepository : ILogisticaApiRepository

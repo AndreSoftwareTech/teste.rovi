@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E9PBBTrHx8fgwNfsK3hOxVyaqzGeHuxPSxD2NDf5omgO+je776V3nQixGkCANMpPysa9LCNxIUgPgsvINXZyIA==",
+  "dgSpecHash": "ecNN/6FTG632SsTe14IEOkFH7CHiRVRSuca0AxX/yCRKCG3+Ihiabxq1drFyBv1HrQp39HCKp0Qf1+6fX0/d3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andre.Pereira\\Documents\\CSharp\\repositorios\\teste.rovi\\Rovitex.Status.Rastreio.Infrastructure\\Rovitex.Status.Rastreio.Infrastructure.csproj",
+  "projectFilePath": "C:\\repositorios\\rovite.status.rastreio.logistica.api\\Rovitex.Status.Rastreio.Infrastructure\\Rovitex.Status.Rastreio.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andre.Pereira\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Andre.Pereira\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

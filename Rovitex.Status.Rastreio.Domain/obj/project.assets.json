@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre.Pereira\\Documents\\CSharp\\repositorios\\teste.rovi\\Rovitex.Status.Rastreio.Domain\\Rovitex.Status.Rastreio.Domain.csproj",
+      "projectUniqueName": "C:\\repositorios\\rovite.status.rastreio.logistica.api\\Rovitex.Status.Rastreio.Domain\\Rovitex.Status.Rastreio.Domain.csproj",
       "projectName": "Rovitex.Status.Rastreio.Domain",
-      "projectPath": "C:\\Users\\Andre.Pereira\\Documents\\CSharp\\repositorios\\teste.rovi\\Rovitex.Status.Rastreio.Domain\\Rovitex.Status.Rastreio.Domain.csproj",
+      "projectPath": "C:\\repositorios\\rovite.status.rastreio.logistica.api\\Rovitex.Status.Rastreio.Domain\\Rovitex.Status.Rastreio.Domain.csproj",
       "packagesPath": "C:\\Users\\Andre.Pereira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre.Pereira\\Documents\\CSharp\\repositorios\\teste.rovi\\Rovitex.Status.Rastreio.Domain\\obj\\",
+      "outputPath": "C:\\repositorios\\rovite.status.rastreio.logistica.api\\Rovitex.Status.Rastreio.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
